@@ -1,8 +1,8 @@
 ---
-title: "A03: Assess your ability to reason about ethical issues in software development"
+title: "A01: Quantum Coding in Python"
 published: true
 morea_id: assessment-ethics
-morea_summary: What would you do under pressure?
+morea_summary: Learn how to code a Quantum Computer in Python
 morea_outcomes_assessed:
  - outcome-ethics
 morea_type: assessment
@@ -11,11 +11,12 @@ morea_sort_order: 12
 morea_labels:
 ---
 
-# A03: Assess your ability to reason about ethical issues in software development
+# A01: Quantum Coding in Python
 
 ## Overview
 
-After taking part in this assessment, you will have a better understanding of whetheryou can effectively reason about ethical issues in software development through reference to the ACM Code of Ethics and other ethics literature.
+Today you will be learning how to code a Quantum Computer in Python
+[Sign up for an IBM Quantum Lab Account](https://quantum-computing.ibm.com/lab) and learn on your own
 
 ## Outcomes
 
