@@ -4,7 +4,7 @@ morea_id: footer
 morea_type: footer
 ---
 
-Philip Johnson | Information and Computer Sciences | University of Hawaii <br>
-johnson@hawaii.edu<br>
+Adrian Tam | Not From the Information and Computer Sciences | Nor University of Hawaii <br>
+at9681@hawaii.edu<br>
 
 
