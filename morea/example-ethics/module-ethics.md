@@ -7,9 +7,6 @@ morea_outcomes:
   - outcome-ethics
 morea_readings:
  - reading-screencast-guided-tour-ethics
- - reading-se-ethics-intro
- - reading-acm-code
- - reading-acm-se-code
 morea_experiences:
  - experience-se-ethics-codes
  - experience-se-ethics-good
