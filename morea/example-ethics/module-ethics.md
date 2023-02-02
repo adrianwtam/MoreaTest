@@ -19,8 +19,8 @@ morea_assessments:
 morea_icon_url: /morea/example-ethics/ethics.png
 morea_type: module
 morea_sort_order: 125
-morea_start_date: "2023-07-26"
-morea_end_date: "2024-07-30T23:00"
+morea_start_date: "2023-01-31"
+morea_end_date: "2023-02-14T23:00"
 ---
 
 Ethics: A group of moral principles or values that define or direct us to the right choice.
