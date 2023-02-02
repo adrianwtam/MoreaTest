@@ -18,6 +18,3 @@ morea_labels:
 Today you will be learning how to code a Quantum Computer in Python
 [Sign up for an IBM Quantum Lab Account](https://quantum-computing.ibm.com/lab) and learn on your own
 
-## Outcomes
-
-The following outcomes will be assessed: {{ page.morea_outcomes_assessed_titles }}
