@@ -1,5 +1,5 @@
 ---
-title: "Ethics in Software Engineering"
+title: "Quantum Physics Intro"
 published: true
 morea_coming_soon: false
 morea_id: ethics
