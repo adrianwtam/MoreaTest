@@ -1,10 +1,10 @@
 ---
-title: "E09: Doing good as a software engineer"
+title: "E04: Photons and Compton Scattering"
 published: true
 morea_id: experience-se-ethics-good
-morea_summary: "How can software engineers contribute to the good life for others?"
+morea_summary: "Learn how Photons and Compton Scattering affect Radiobiology and Computer Science"
 morea_type: experience
-morea_start_date: "2021-07-27T23:00"
+morea_start_date: "2023-07-27T23:00"
 morea_sort_order: 1
 morea_labels:
  - "Foundations: 4"

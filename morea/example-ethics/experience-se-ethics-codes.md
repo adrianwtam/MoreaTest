@@ -1,10 +1,10 @@
 ---
-title: "E08: What are the professional codes of software engineering ethics?"
+title: "E03: What is the Photoelectric Effect?"
 published: true
 morea_id: experience-se-ethics-codes
-morea_summary: "How do professional codes help us to be ethical in our working lives?"
+morea_summary: "Learn about the applications of the Photoelectric Effect and how we use it to our advantage"
 morea_type: experience
-morea_start_date: "2021-07-26T23:00"
+morea_start_date: "2023-07-26T23:00"
 morea_sort_order: 1
 morea_labels:
  - "Foundations: 2"

@@ -1,8 +1,8 @@
 ---
-title: "E10: Doing harm as a software engineer"
+title: "E5: The Franck-Hertz Experiment"
 published: true
 morea_id: experience-se-ethics-harm
-morea_summary: "What kinds of harm can software engineers cause? What kinds can they prevent?"
+morea_summary: "Understand the quantum nature of atoms and how it changed humanity's understanding of the world"
 morea_type: experience
 morea_start_date: "2021-07-28T23:00"
 morea_sort_order: 1
@@ -10,7 +10,7 @@ morea_labels:
  - "Foundations: 3"
 ---
 
-# E10: Harm in software engineering
+# E5: The Franck-Hertz Experiment
 
 (Adapted with permission from "An Introduction to Software Engineering Ethics" by Shannon Vallor and Arvind Narayanan.)
 
